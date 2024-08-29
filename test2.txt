@@ -1,0 +1,1 @@
+local_exam2 의 test2.txt 문서입니다.
