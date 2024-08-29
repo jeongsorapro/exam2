@@ -1,1 +1,2 @@
 local_exam2 의 test2.txt 문서입니다.
+push작업을 마치고 test2를 수정하러 들어왔습니다.
